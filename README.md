@@ -5,6 +5,6 @@
 
 ## Todos os meus projetos
 
-- 1º - Cpntador com memória
+- 1º - Contador com memória com javascript e css
   <a href="https://github.com/imerik1/contador"> <br>Link do Repositório</a> <br>
   <img src="https://media.giphy.com/media/34u4LKVt6lF2Po35p0/giphy.gif" width="225px">
