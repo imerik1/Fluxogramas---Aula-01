@@ -4,3 +4,7 @@
 <a href="https://www.youtube.com/channel/UCK6ma51tX_xvk47cMZPaaMA?view_as=subscriber"><img src="https://juniorsilveira.com.br/wp-content/uploads/2019/03/youtube-logo-in-png-26.png" width="32"></a>
 
 ## Todos os meus projetos
+
+- 1º - Cpntador com memória
+  <a href="https://github.com/imerik1/contador"> <br>Link do Repositório</a> <br>
+  <img src="https://media.giphy.com/media/34u4LKVt6lF2Po35p0/giphy.gif" width="175px">
