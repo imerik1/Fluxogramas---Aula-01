@@ -8,3 +8,11 @@
 - 1º - Contador com memória com javascript e jquery
   <a href="https://github.com/imerik1/contador"> <br>Link do Repositório</a> <br>
   <img src="https://media.giphy.com/media/34u4LKVt6lF2Po35p0/giphy.gif" width="225px">
+
+- 2º - Planeta Terra
+  <a href="https://github.com/imerik1/planetaterra"> <br>Link do Repositório</a> <br>
+  <img src="https://media0.giphy.com/media/S536ZQU6V0eZZQhRzN/giphy.gif" width="175px">
+
+- 3º - Netflix Logo
+  <a href="https://github.com/imerik1/netflix-logo"> <br>Link do Repositório</a> <br>
+  <img src="https://media.giphy.com/media/ALeCfdEwxgRiVBJ1S6/giphy.gif" width="175px">
