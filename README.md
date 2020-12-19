@@ -18,5 +18,5 @@
   <img src="https://media.giphy.com/media/ALeCfdEwxgRiVBJ1S6/giphy.gif" width="225px">
 
 - 4º - Projeto CDFTV #1
-  <a href="https://github.com/imerik1/ProjetoCDFTV"> <br>Link do Repositório</a> <br>
-  <img src="https://camo.githubusercontent.com/cd8033ec6251357165b0c7c08848c1674f31991a2adb5f5146f0e5301010034d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d5956656f593864794553565446346261382f67697068792e676966" width="225px">
+  <a href="https://github.com/gabrielfroes/among-us-start-reactor-game-vanilla-js"> <br>Link do Repositório</a> <br>
+  <img src="https://media.giphy.com/media/In4875KZqa9RFCkzj3/giphy.gif" width="225px">
