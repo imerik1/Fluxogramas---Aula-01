@@ -7,21 +7,21 @@
 
 - 1º - Contador com memória com javascript e jquery
   <a href="https://github.com/imerik1/contador"> <br>Link do Repositório</a> <br>
-  <img src="https://media.giphy.com/media/34u4LKVt6lF2Po35p0/giphy.gif" width="225px">
+  <img src="https://media.giphy.com/media/34u4LKVt6lF2Po35p0/giphy.gif" width="525px">
 
 - 2º - Planeta Terra
   <a href="https://github.com/imerik1/planetaterra"> <br>Link do Repositório</a> <br>
-  <img src="https://media0.giphy.com/media/S536ZQU6V0eZZQhRzN/giphy.gif" width="225px">
+  <img src="https://media0.giphy.com/media/S536ZQU6V0eZZQhRzN/giphy.gif" width="525px">
 
 - 3º - Netflix Logo
   <a href="https://github.com/imerik1/netflix-logo"> <br>Link do Repositório</a> <br>
-  <img src="https://media.giphy.com/media/ALeCfdEwxgRiVBJ1S6/giphy.gif" width="225px">
+  <img src="https://media.giphy.com/media/ALeCfdEwxgRiVBJ1S6/giphy.gif" width="525px">
 
 - 4º - Start Reactor Mini Game Among Us
   <a href="https://github.com/gabrielfroes/among-us-start-reactor-game-vanilla-js"> <br>Link do Repositório</a> <br>
-  <img src="https://media.giphy.com/media/In4875KZqa9RFCkzj3/giphy.gif" width="225px">
+  <img src="https://media.giphy.com/media/In4875KZqa9RFCkzj3/giphy.gif" width="525px">
 
 - 5º - Site Arch MotorCycle
   <a href="https://github.com/imerik1/ArchMotorcycle"> <br>Link do Repositório</a> <br>
-  <img src="https://i.ibb.co/FY6Zb86/dddd.jpg" width="225px">
+  <img src="https://i.ibb.co/FY6Zb86/dddd.jpg" width="525px">
 
