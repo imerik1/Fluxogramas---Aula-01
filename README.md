@@ -17,6 +17,6 @@
   <a href="https://github.com/imerik1/netflix-logo"> <br>Link do Repositório</a> <br>
   <img src="https://media.giphy.com/media/ALeCfdEwxgRiVBJ1S6/giphy.gif" width="225px">
 
-- 4º - Projeto CDFTV #1
+- 4º - Start Reactor Mini Game Among Us
   <a href="https://github.com/gabrielfroes/among-us-start-reactor-game-vanilla-js"> <br>Link do Repositório</a> <br>
   <img src="https://media.giphy.com/media/In4875KZqa9RFCkzj3/giphy.gif" width="225px">
