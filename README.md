@@ -24,4 +24,11 @@
 - 5º - Site Arch MotorCycle (NextJs, Styled Components e TypeScript)
   <a href="https://github.com/imerik1/ArchMotorcycle"> <br>Link do Repositório</a> <br>
   <img src="https://i.ibb.co/FY6Zb86/dddd.jpg" width="525px">
+  
+- 6º - Site Projeto UpMiner (ReactJs e SASS)
+  <a href="https://github.com/imerik1/ProjetoUpLexis"> <br>Link do Repositório</a> <br>
+  <img src="https://i.ibb.co/nMBXP1p/ddddddd.jpg" width="525px">
 
+- 7º - SpaceWar (HTML e SCSS)
+  <a href="https://github.com/imerik1/SpaceWar"> <br>Link do Repositório</a> <br>
+  ## Sem imagem
