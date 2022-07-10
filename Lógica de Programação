@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T23:56:59.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UueTGv_c9ZjzSRqs_r-t" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-10T00:04:55.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Zk8gqLNXQQTSOKhWT87a" version="20.0.4" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Simbolos">
     <mxGraphModel dx="981" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,6 +160,71 @@
         </mxCell>
         <mxCell id="RR6kv5kr6D5kXsFB65zj-11" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yPH31dAnDLOB38_v_6yG" name="Page-4">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="drpoI6-U9H0gJiMgivrj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="drpoI6-U9H0gJiMgivrj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="drpoI6-U9H0gJiMgivrj-4" target="drpoI6-U9H0gJiMgivrj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-4" value="Digite o valor do salário atual" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="drpoI6-U9H0gJiMgivrj-6" target="drpoI6-U9H0gJiMgivrj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-6" value="A" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="drpoI6-U9H0gJiMgivrj-8" target="drpoI6-U9H0gJiMgivrj-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-8" value="Qual o reajuste" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="drpoI6-U9H0gJiMgivrj-9" target="drpoI6-U9H0gJiMgivrj-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-9" value="B" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="drpoI6-U9H0gJiMgivrj-12" target="drpoI6-U9H0gJiMgivrj-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.5" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-12" value="salario_atual = A * (1 + B/100)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="600" width="251" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="drpoI6-U9H0gJiMgivrj-15" target="drpoI6-U9H0gJiMgivrj-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-15" value="salario_atual" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="drpoI6-U9H0gJiMgivrj-17" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="800" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
